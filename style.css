@@ -18,6 +18,22 @@ body {
   width: 60%;
 }
 
+.login-title {
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #fff;
+}
+
+.login-desc {
+  font-size: 0.95rem;
+  color: #dfe7f2;
+  line-height: 1.5rem;
+}
+
+.image-container {
+  margin-top: auto;
+}
+
 .form-control {
   font-size: 0.95rem;
   padding: 10px;
